@@ -219,9 +219,11 @@ The repository contains:
 
 ### Dulce Zuniga
 
-- Participated in the group project.
-- Helped review project information and documentation.
-- Assisted with organizing project materials for submission.
+- Helped review the project requirements and overall project plan.
+- Assisted with reviewing the dataset and license plate detection approach.
+- Helped review the model results and project documentation.
+- Contributed to organizing and preparing the project materials for submission.
+
 
 ---
 
